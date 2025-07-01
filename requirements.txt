@@ -1,0 +1,4 @@
+Flask>=2.2.0
+requests>=2.31.0
+autogen>=0.1.0  # Adjust version based on the actual release you're using
+google-generativeai>=0.3.2  # Required for Gemini (for Gemini API support)
